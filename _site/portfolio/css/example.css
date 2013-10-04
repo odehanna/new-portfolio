@@ -203,14 +203,7 @@ textarea {
     page-break-after: avoid;
   }
 }
-body {
-  margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 20px;
-  color: #333333;
-  background-color: #ffffff;
-}
+
 /*a {
   color: #0088cc;
   text-decoration: none;
@@ -1634,12 +1627,6 @@ input[type="submit"].btn.btn-mini {
 /*
   Code example styles
 */
-body {
-  background: #fcfcfc;
-  -webkit-font-smoothing: antialiased;
-  font: normal 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #232525;
-}
 
 .nav {
     list-style-type: none;
@@ -1713,13 +1700,13 @@ small {
 }
 
 a:link, a:visited {
-    color: #d22929;
+    color: #8d7401;
     text-decoration: none;
     font-weight: 600;
 }
 
 a:hover, a:active {
-    color: #9e2020;
+    color: #FFFFFF;
     text-decoration: none;
     font-weight: 600;
 }
